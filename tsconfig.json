@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@starkore/api": ["packages/api/src"]
+    }
+  }
+}
